@@ -16,8 +16,12 @@ namespace LineComparisonOops
 
            // LengthOfLine lengthOfLine = new LengthOfLine();
             //lengthOfLine.Length();
-            LengthComparison lengthComparison = new LengthComparison();
-            lengthComparison.Length();
+           // LengthComparison lengthComparison = new LengthComparison();
+            //lengthComparison.Length();
+
+            CompareLine compareLine = new CompareLine();
+            compareLine.Length();
+
         }
     }
 }

@@ -14,9 +14,10 @@ namespace LineComparisonOops
 
 
 
-            LengthOfLine lengthOfLine = new LengthOfLine();
-            lengthOfLine.Length();
-
+           // LengthOfLine lengthOfLine = new LengthOfLine();
+            //lengthOfLine.Length();
+            LengthComparison lengthComparison = new LengthComparison();
+            lengthComparison.Length();
         }
     }
 }

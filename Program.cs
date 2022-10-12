@@ -10,7 +10,12 @@ namespace LineComparisonOops
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Line comparison using oops concept");
+            Console.WriteLine("welcome to Line comparison using oops concept");
+
+
+
+            LengthOfLine lengthOfLine = new LengthOfLine();
+            lengthOfLine.Length();
 
         }
     }
